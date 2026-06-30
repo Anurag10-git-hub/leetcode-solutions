@@ -11,6 +11,7 @@ My LeetCode solutions for DSA and interview preparation in Python.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anurag10-git-hub/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Anurag10-git-hub/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0258-add-digits](https://github.com/Anurag10-git-hub/leetcode-solutions/tree/master/0258-add-digits) |
 ## Recursion
 |  |
